@@ -1,4 +1,9 @@
 public class WritingAssignment: Assignment{
+
+    //sample answer's solution: public WritingAssignment(string studentName,string topic,string title){
+
+    // }
+    // the code I made works though.
     private string _title;
 
     public string GetTitle(){

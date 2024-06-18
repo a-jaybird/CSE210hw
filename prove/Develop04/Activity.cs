@@ -19,7 +19,7 @@ public class Activity{
     }
    public void startActivity(){
 
-      Console.WriteLine($"Welcome to the {act}.{desc} In seconds,how long do you want to do this activity?");
+      Console.WriteLine($"Welcome to the {act}. {desc} In seconds,how long do you want to do this activity?");
 
        
         string time= Console.ReadLine();
